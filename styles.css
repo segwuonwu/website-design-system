@@ -48,4 +48,30 @@ body {
 font-size: 20px;
 text-decoration: underline;
 }
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+}
   
+.rasa {
+    font-family: 'Rasa', 'Geneva';
+}
+
+.prompt {
+    font-family: 'Prompt', Arial;
+}
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}
