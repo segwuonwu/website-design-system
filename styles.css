@@ -39,6 +39,14 @@ body {
     background-color: #efd9ca;
 }
 
+.gray {
+    background-color: #808080;
+}
+
+.goldenrod {
+    background-color: #daa520;
+}
+
 .font-panel {
     width: 45%;
     display: inline-block;
@@ -74,4 +82,22 @@ text-decoration: underline;
 }
 .open-sans {
     font-family: 'Open Sans', sans-serif;
+}
+
+.text-panel h1{
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.text-panel h2{
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-panel p{
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
 }
